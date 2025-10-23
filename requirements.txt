@@ -1,0 +1,15 @@
+torch 
+torchvision 
+timm 
+scikit-learn 
+tqdm 
+pillow 
+numpy
+pandas 
+matplotlib 
+seaborn 
+opencv-python 
+albumentations 
+requests 
+jsonschema 
+pyyaml
